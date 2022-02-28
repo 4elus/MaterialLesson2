@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MaterialLesson2</string>
+    <string name="label_activity">Изменить тему</string>
+    <string name="theme_one">Светлая тема</string>
+    <string name="theme_second">Темная тема</string>
+    <string name="activity_label">Задание #2</string>
+</resources>
